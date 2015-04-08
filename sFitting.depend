@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1427557348 source:/home/jokim/Work/MonacoBCT/codeblock/sFitting/nrfunc.c
+	<math.h>
+	"nrutil.h"
+	<stdio.h>
+	<stdlib.h>
+
+1427557348 /home/jokim/Work/MonacoBCT/codeblock/sFitting/nrutil.h
+
+1427557348 source:/home/jokim/Work/MonacoBCT/codeblock/sFitting/nrutil.c
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+
+1427557533 source:/home/jokim/Work/MonacoBCT/codeblock/sFitting/sFitting_xvmc.cc
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+	<string.h>
+	<malloc.h>
+	<ctype.h>
+	"nr.h"
+	"nrutil.h"
+
+1427557348 /home/jokim/Work/MonacoBCT/codeblock/sFitting/nr.h
+	<stdio.h>
+
